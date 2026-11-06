@@ -19,7 +19,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 📊 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMeta&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
